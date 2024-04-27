@@ -8,5 +8,7 @@ add other 2 lines
 add other other 2 lines 
 add this line from github 
 
-hello from the new line
-conflict line from the local repo 
+
+hello from the new line 
+conflit line from the remote 
+
