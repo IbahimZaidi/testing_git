@@ -9,5 +9,3 @@ add other other 2 lines
 add this line from github 
 
 hello from the new line
-
-conflict line ssh-origin 
