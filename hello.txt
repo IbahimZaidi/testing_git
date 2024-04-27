@@ -8,4 +8,5 @@ add other 2 lines
 add other other 2 lines 
 add this line from github 
 
-hello from the new line
+hello from the new line 
+conflit line from the remote 
